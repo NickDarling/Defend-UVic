@@ -1,7 +1,6 @@
 Defend-UVic
 ===========
 
-![](https://raw.github.com/NickDarling/Defend-UVic/master/defenduvic.jpg)
 
 ####About
 
