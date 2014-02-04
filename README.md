@@ -4,7 +4,7 @@ Defend-UVic
 
 ####About
 
-Bunnies have taken over UVic once again and they're coming back more hipster than ever before!
+Bunnies have taken over UVic once again and we need your help!
 
 ####Controls
 
