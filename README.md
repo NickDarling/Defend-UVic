@@ -1,7 +1,14 @@
 Defend-UVic
 ===========
 
-Click on every bunny!
+
+####About
+
+Bunnies have taken over UVic once again and we need your help!
+
+####Controls
+
+Click on the bunnies to harmlessly remove them and save UVic!
 
 
 *****************************************************************
